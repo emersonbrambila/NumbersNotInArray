@@ -1,0 +1,13 @@
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\obj\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.csprojAssemblyReference.cache
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\obj\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.AssemblyInfoInputs.cache
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\obj\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.AssemblyInfo.cs
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\obj\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.csproj.CoreCompileInputs.cache
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\bin\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.exe
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\bin\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.deps.json
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\bin\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.runtimeconfig.json
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\bin\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.runtimeconfig.dev.json
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\bin\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.dll
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\bin\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.pdb
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\obj\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.dll
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\obj\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.pdb
+C:\Projetos\leanwork\atividade_1\Print Only Number That Are Not in Array\obj\Debug\netcoreapp3.1\Print Only Number That Are Not in Array.genruntimeconfig.cache

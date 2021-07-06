@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Print_Only_Number_That_Are_Not_in_Array</RootNamespace>
+  </PropertyGroup>
+
+</Project>
